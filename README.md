@@ -12,7 +12,7 @@ I'm a web developer focused on privacy tools and automation.
 
 ### 🚀 Quick Links:
 - **Official Website:** [https://www.temptom.com/](https://www.temptom.com/)
-- **Mirror/Guide:** [Temptom on Google Sites](你的GoogleSites链接)
+
 
 ---
 
